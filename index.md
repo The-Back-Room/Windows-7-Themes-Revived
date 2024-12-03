@@ -75,7 +75,7 @@ Download this theme project from any of the following locations.
 
 [![][<img src="https://upload.wikimedia.org/wikipedia/he/thumb/9/9e/Deviantart_logo.png/250px-Deviantart_logo.png" width="150">]][DeviantArt]
 
-[![][<img src="https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png" width="150"]][GitHub]
+[![][<img src="https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png" width="150">]][GitHub]
 
 
 [GitHub]: https://github.com/The-Back-Room/Windows-7-Themes-Revived
