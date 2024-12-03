@@ -73,9 +73,9 @@ Here are the themes currently available.
 
 Download this theme project from any of the following locations.
 
-[![](<img width="150" src="https://upload.wikimedia.org/wikipedia/he/thumb/9/9e/Deviantart_logo.png/250px-Deviantart_logo.png">)][DeviantArt]
+![<img width="150" src="https://upload.wikimedia.org/wikipedia/he/thumb/9/9e/Deviantart_logo.png/250px-Deviantart_logo.png" />][DeviantArt]
 
-[![](<img width="150" src="https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png">)][GitHub]
+![<img width="150" src="https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png" />][GitHub]
 
 
 [GitHub]: https://github.com/The-Back-Room/Windows-7-Themes-Revived
