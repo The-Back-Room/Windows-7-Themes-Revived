@@ -60,3 +60,9 @@ search:
 pages:
 - 404.md
 - index.md
+
+nav_external_links:
+- title: Docs
+  url: https://the-back-room.github.io/Docs/
+  hide_json: false
+  open_in_new_tab: false
