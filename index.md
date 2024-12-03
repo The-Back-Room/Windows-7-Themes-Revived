@@ -73,10 +73,10 @@ Here are the themes currently available.
 
 Download this theme project from any of the following locations.
 
-<a href="https://www.deviantart.com/og-nimbi/art/Windows-7-Themes-Revived-1128145485">
+<a href="https://www.deviantart.com/og-nimbi/art/Windows-7-Themes-Revived-1128145485" target="_blank">
     <img width="150" src="https://upload.wikimedia.org/wikipedia/he/thumb/9/9e/Deviantart_logo.png/250px-Deviantart_logo.png" />
 </a>
-<a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived">
+<a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived" target="_blank">
     <img width="150" src="https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png" />
 </a>
 
