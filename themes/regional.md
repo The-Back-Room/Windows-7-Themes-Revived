@@ -1,3 +1,11 @@
+---
+layout: default
+title: Regional Themes
+parent: Themes
+grand_parent: Windows 7 Themes Revived
+permalink: /themes/regional
+---
+
 Regional Themes
 
 - Australia
