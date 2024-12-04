@@ -6,8 +6,6 @@ grand_parent: Windows 7 Themes Revived
 permalink: /themes/box-art
 ---
 
-Box Art Themes
-
 - Windows 7 Home Premium
 - Windows 7 Professional
 - Windows 7 Ultimate
