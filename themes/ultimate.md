@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Ultimate Themes
-parent: Themes
+nav_order: 4
+parent: Current Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/ultimate
 ---
-
-Ultimate Themes
 
 - Windows 7 Ultimate (Black)
 - Windows 7 Ultimate (Bliss)
