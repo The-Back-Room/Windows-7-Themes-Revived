@@ -60,6 +60,12 @@ search:
 pages:
 - 404.md
 - index.md
+- themes.md
+- themes/rtm.md
+- themes/regional.md
+- themes/other.md
+- themes/ultimate.md
+- themes/box-art.md
 
 nav_external_links:
 - title: The Back Room
