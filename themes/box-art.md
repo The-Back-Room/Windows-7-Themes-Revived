@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Box Art Themes
-parent: Themes
+parent: Current Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/box-art
 ---
