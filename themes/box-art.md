@@ -1,3 +1,11 @@
+---
+layout: default
+title: Box Art Themes
+parent: Themes
+grand_parent: Windows 7 Themes Revived
+permalink: /themes/box-art
+---
+
 Box Art Themes
 
 - Windows 7 Home Premium
