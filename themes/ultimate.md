@@ -1,3 +1,11 @@
+---
+layout: default
+title: Ultimate Themes
+parent: Themes
+grand_parent: Windows 7 Themes Revived
+permalink: /themes/ultimate
+---
+
 Ultimate Themes
 
 - Windows 7 Ultimate (Black)
