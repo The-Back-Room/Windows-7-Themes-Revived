@@ -1,12 +1,10 @@
 ---
 layout: default
-title: RTM Themes
-parent: Themes
+title: RTM Themenav_order: 2
+parent: Current Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/rtm
 ---
-
-RTM Themes
 
 - Nature
 - Landscapes
