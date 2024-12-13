@@ -16,3 +16,4 @@ permalink: /themes/rtm
 <p align="center">Architecture</p>
 <p align="center"><img width="80%" src="../assets/Architecture.jpg"></p>
 <p align="center">Windows 7</p>
+<p align="center"><img width="80%" src="../assets/Windows 7 (Classic).jpg"></p>

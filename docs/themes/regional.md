@@ -9,8 +9,11 @@ permalink: /themes/regional
 
 <h2 align="center">Regional Themes</h2>
 <p align="center">Australia</p>
+<p align="center"><img width="80%" src="../assets/Australia.jpg"></p>
 <p align="center">Brazil</p>
+<p align="center"><img width="80%" src="../assets/Brazil.jpg"></p>
 <p align="center">Canada</p>
+<p align="center"><img width="80%" src="../assets/Canada.jpg"></p>
 <p align="center">China</p>
 <p align="center">France</p>
 <p align="center">Germany</p>
