@@ -46,3 +46,4 @@ nav_external_links:
   url: https://the-back-room.github.io/
   hide_json: false
   open_in_new_tab: false
+  hide_icon: true

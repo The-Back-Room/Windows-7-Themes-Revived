@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Ultimate Themes
-nav_order: 1.1.4
+nav_order: 1
 parent: Available Themes
-grand_parent: Windows 7 Themes Revived
 permalink: /themes/ultimate
 ---
 
