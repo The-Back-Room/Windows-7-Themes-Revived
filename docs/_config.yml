@@ -42,7 +42,7 @@ pages:
 - themes/box-art.md
 
 nav_external_links:
-- title: Home
+- title: Back
   url: https://the-back-room.github.io/
   hide_json: false
   open_in_new_tab: false
