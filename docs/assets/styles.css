@@ -1,5 +1,5 @@
-#footer span {
-  margin: 80%;
+#footer span:before {
+  content: &nbsp;
   display: inline-block; 
   width: 32px;
 }
