@@ -2,7 +2,7 @@
 layout: default
 title: Other Themes
 nav_order: 1.1.5
-parent: Current Themes
+parent: Available Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/other
 ---

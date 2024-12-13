@@ -2,7 +2,7 @@
 layout: default
 title: RTM Themes
 nav_order: 1.1.2
-parent: Current Themes
+parent: Available Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/rtm
 ---
@@ -19,4 +19,4 @@ permalink: /themes/rtm
 <p align="center">Architecture</p>
 <p align="center"><img width="80%" src="../assets/Architecture.png" /></p>
 <p align="center">Windows 7</p>
-<!-- <p align="center"><img width="80%" src="../assets/Windows 7 (Classic).png" /></p> -->
+<p align="center"><img width="80%" src="../assets/Windows 7 Classic.png" /></p>

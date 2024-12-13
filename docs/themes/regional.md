@@ -2,7 +2,7 @@
 layout: default
 title: Regional Themes
 nav_order: 1.1.1
-parent: Current Themes
+parent: Available Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/regional
 ---
