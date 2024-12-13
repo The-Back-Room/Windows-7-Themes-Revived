@@ -1,6 +1,8 @@
 .text-align:left {
+  float: left;
   margin: 80%;
 }
 .text-align:right {
+  float: right;
   margin: 80%;
 }
