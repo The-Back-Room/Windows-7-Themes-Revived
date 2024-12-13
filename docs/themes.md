@@ -6,7 +6,7 @@ parent: Windows 7 Themes Revived
 permalink: /themes
 ---
 
-<h4 align="center">Regional Themes</h4>
+<h2 align="center">Regional Themes</h2>
 <p align="center">Australia</p>
 <p align="center">Brazil</p>
 <p align="center">Canada</p>
@@ -26,7 +26,7 @@ permalink: /themes
 <p align="center">United Kingdoms</p>
 <p align="center">United States</p>
 
-<h4 align="center">RTM Themes</h4>
+<h2 align="center">RTM Themes</h2>
 <p align="center">Nature</p>
 <p align="center">Landscapes</p>
 <p align="center">Scenes</p>
@@ -34,12 +34,12 @@ permalink: /themes
 <p align="center">Architecture</p>
 <p align="center">Windows 7</p>
 
-<h4 align="center">Box Art Themes</h4>
+<h2 align="center">Box Art Themes</h2>
 <p align="center">Windows 7 Home Premium</p>
 <p align="center">Windows 7 Professional</p>
 <p align="center">Windows 7 Ultimate</p>
 
-<h4 align="center">Ultimate Themes</h4>
+<h2 align="center">Ultimate Themes</h2>
 <p align="center">Windows 7 Ultimate (Black)</p>
 <p align="center">Windows 7 Ultimate (Bliss)</p>
 <p align="center">Windows 7 Ultimate (Blush)</p>
@@ -53,5 +53,5 @@ permalink: /themes
 <p align="center">Windows 7 Ultimate (Violet)</p>
 <p align="center">Windows 7 Ultimate</p>
 
-<h4 align="center">Others</h4>
+<h2 align="center">Others</h2>
 <p align="center">Bullet Asylum</p>
