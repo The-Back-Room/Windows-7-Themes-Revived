@@ -10,5 +10,8 @@ permalink: /themes/box-art
 
 <h2 align="center">Box Art Themes</h2>
 <p align="center">Windows 7 Home Premium</p>
+<!-- <p align="center"><img width="80%" src=""></p> -->
 <p align="center">Windows 7 Professional</p>
+<!-- <p align="center"><img width="80%" src=""></p> -->
 <p align="center">Windows 7 Ultimate</p>
+<!-- <p align="center"><img width="80%" src=""></p> -->
