@@ -1,6 +1,10 @@
+#Footer span {
+  margin: 0 10px;
+}
+
 .alignleft {
-float: left;
+  float: left;
 }
 .alignright {
-float: right;
+  float: right;
 }
