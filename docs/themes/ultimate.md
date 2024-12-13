@@ -7,7 +7,6 @@ grand_parent: Windows 7 Themes Revived
 permalink: /themes/ultimate
 ---
 
-<h2 align="center">Ultimate Themes</h2>
 <p align="center">Windows 7 Ultimate (Black)</p>
 <p align="center"><img width="80%" src="../assets/Ultimate Black.png" /></p>
 <p align="center">Windows 7 Ultimate (Bliss)</p>

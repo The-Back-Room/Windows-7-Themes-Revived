@@ -7,7 +7,6 @@ grand_parent: Windows 7 Themes Revived
 permalink: /themes/regional
 ---
 
-<h2 align="center">Regional Themes</h2>
 <p align="center">Australia</p>
 <p align="center"><img width="80%" src="../assets/Australia.png" /></p>
 <p align="center">Brazil</p>

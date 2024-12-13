@@ -7,7 +7,6 @@ grand_parent: Windows 7 Themes Revived
 permalink: /themes/rtm
 ---
 
-<h2 align="center">RTM Themes</h2>
 <p align="center">Nature</p>
 <p align="center"><img width="80%" src="../assets/Nature.png" /></p>
 <p align="center">Landscapes</p>
