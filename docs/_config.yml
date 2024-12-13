@@ -16,7 +16,7 @@ mermaid:
 
 heading_anchors: true
 nav_enabled: true
-toc_enabled: false
+disable_toc: true
 search_enabled: true
 
 search:
