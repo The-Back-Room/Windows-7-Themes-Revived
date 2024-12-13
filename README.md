@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 <h1 align="center">Windows 7 Themes Revived</h1>
 <p align="center"><img width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dino2ml-ee84d62e-9ad3-4dbe-a5f3-62c414afec6e.png/v1/fill/w_1200,h_557,q_80,strp/windows_7_themes_revived_by_og_nimbi_dino2ml-fullview.jpg" /><br /><br />
 This project uses Windwos 11 Cursors concept V2 by <a href="https://www.deviantart.com/jepricreations">jepriCreations</a><br /><br />
