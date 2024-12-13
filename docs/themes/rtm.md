@@ -1,8 +1,7 @@
 ---
 layout: default
 title: RTM Themes
-disable_toc: true
-nav_order: 2
+nav_order: 1.1.2
 parent: Current Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/rtm

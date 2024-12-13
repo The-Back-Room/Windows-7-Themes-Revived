@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Windows 7 Themes Revived
-disable_toc: true
+nav_order: 1
 description: Windows 7 Themepacks Revivial Project for Windows 10 and 11
 permalink: /
 ---

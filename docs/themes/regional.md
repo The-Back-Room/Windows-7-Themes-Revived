@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Regional Themes
-disable_toc: true
-nav_order: 1
+nav_order: 1.1.1
 parent: Current Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/regional

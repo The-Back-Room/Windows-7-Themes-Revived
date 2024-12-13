@@ -2,7 +2,7 @@
 layout: default
 title: Box Art Themes
 disable_toc: true
-nav_order: 3
+nav_order: 1.1.3
 parent: Current Themes
 grand_parent: Windows 7 Themes Revived
 permalink: /themes/box-art
