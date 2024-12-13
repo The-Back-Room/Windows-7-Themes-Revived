@@ -1,4 +1,6 @@
-#footer span {
-  display: inline-block; 
-  margin: 50%;
+.text-align:left {
+  margin: 80%;
+}
+.text-align:right {
+  margin: 80%;
 }
