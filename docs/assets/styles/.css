@@ -1,5 +1,5 @@
-span:before {
-  content: " "; 
+#footer span {
+  margin: 80%;
   display: inline-block; 
   width: 32px;
 }
