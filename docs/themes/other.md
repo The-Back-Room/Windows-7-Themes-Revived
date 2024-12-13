@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other Themes
-nav_order: 1
+nav_order: 5
 parent: Available Themes
 permalink: /themes/other
 ---

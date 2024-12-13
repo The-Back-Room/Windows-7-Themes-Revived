@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ultimate Themes
-nav_order: 1
+nav_order: 4
 parent: Available Themes
 permalink: /themes/ultimate
 ---

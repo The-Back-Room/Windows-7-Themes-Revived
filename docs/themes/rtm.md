@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RTM Themes
-nav_order: 1
+nav_order: 2
 parent: Available Themes
 permalink: /themes/rtm
 ---

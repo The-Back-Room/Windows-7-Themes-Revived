@@ -2,7 +2,7 @@
 layout: default
 title: Box Art Themes
 disable_toc: true
-nav_order: 1
+nav_order: 3
 parent: Available Themes
 permalink: /themes/box-art
 ---
