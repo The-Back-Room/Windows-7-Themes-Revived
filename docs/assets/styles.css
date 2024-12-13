@@ -1,10 +1,5 @@
-#Footer span {
-  margin: 0 10px;
-}
-
-.alignleft {
-  float: left;
-}
-.alignright {
-  float: right;
+span:before {
+  content: " "; 
+  display: inline-block; 
+  width: 80%;
 }
