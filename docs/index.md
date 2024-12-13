@@ -12,5 +12,4 @@ This project uses Windwos 11 Cursors concept V2 by <a href="https://www.devianta
 </p>
 
 <h2 align="center">Credits</h2>
-<p align="center"><a href="https://www.deviantart.com/jepricreations">jepriCreations</a><br />
-</p>
+<p align="center"><a href="https://www.deviantart.com/jepricreations">jepriCreations</a></p>
