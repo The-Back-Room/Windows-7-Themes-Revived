@@ -7,9 +7,9 @@ parent: Available Themes
 permalink: /themes/box-art
 ---
 
-<p align="center">Windows 7 Home Premium</p>
-<p align="center"><img width="80%" src="../assets/Home Premium.png" /></p>
-<p align="center">Windows 7 Professional</p>
-<p align="center"><img width="80%" src="../assets/Professional.png" /></p>
-<p align="center">Windows 7 Ultimate</p>
-<p align="center"><img width="80%" src="../assets/Ultimate.png" /></p>
+<h4>Windows 7 Home Premium</h4>
+<img src="../assets/Home Premium.png" />
+<h4>Windows 7 Professional</h4>
+<img src="../assets/Professional.png" /><
+<h4>Windows 7 Ultimate</h4>
+<img src="../assets/Ultimate.png" />
