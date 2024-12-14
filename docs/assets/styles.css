@@ -1,21 +1,11 @@
-span.align-left {
+align-left {
   float: left;
-  display: block;
 }
-span.align-right {
+align-right {
   float: right;
-  display: block;
 }
 
-a.deviantart-logo {
-  background-image: url(`https://upload.wikimedia.org/wikipedia/he/thumb/9/9e/Deviantart_logo.png/250px-Deviantart_logo.png`);
+.download-image {
   display: block;
   width: "10%";
-  margin-left: auto;
-}
-a.github-logo {
-  background-image: url(`https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png`);
-  display: block;
-  width: "10%";
-  margin-left: auto;
 }
