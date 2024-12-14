@@ -1,13 +1,7 @@
-.align-left {
-  float: left;
+span {
+  float: auto;
 }
-.align-right {
-  float: right;
-}
-.download-image {
-  display: block;
-  width: "10%";
-  padding: 0px 15px 0px 15px;
-  margin-left: 1em auto;
-  margin-right: 1em auto;
+img {
+  max-width: 80%;
+  height: auto;
 }
