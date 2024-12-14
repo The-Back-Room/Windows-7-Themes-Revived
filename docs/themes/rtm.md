@@ -7,7 +7,7 @@ permalink: /themes/rtm
 ---
 
 <h4>Nature</h4>
-<img src="../assets/Nature.png" /></p>
+<img src="../assets/Nature.png" />
 <h4>Landscapes</h4>
 <img src="../assets/Landscapes.png" />
 <h4>Scenes</h4>
