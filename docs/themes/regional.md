@@ -6,39 +6,39 @@ parent: Available Themes
 permalink: /themes/regional
 ---
 
-<p align="center">Australia</p>
-<p align="center"><img width="80%" src="../assets/Australia.png" /></p>
-<p align="center">Brazil</p>
-<p align="center"><img width="80%" src="../assets/Brazil.png" /></p>
-<p align="center">Canada</p>
-<p align="center"><img width="80%" src="../assets/Canada.png" /></p>
-<p align="center">China</p>
-<p align="center"><img width="80%" src="../assets/China.png" /></p>
-<p align="center">France</p>
-<p align="center"><img width="80%" src="../assets/France.png" /></p>
-<p align="center">Germany</p>
-<p align="center"><img width="80%" src="../assets/Germany.png" /></p>
-<p align="center">India</p>
-<p align="center"><img width="80%" src="../assets/India.png" /></p>
-<p align="center">Italy</p>
-<p align="center"><img width="80%" src="../assets/Italy.png" /></p>
-<p align="center">Japan</p>
-<p align="center"><img width="80%" src="../assets/Japan.png" /></p>
-<p align="center">Korea</p>
-<p align="center"><img width="80%" src="../assets/Korea.png" /></p>
-<p align="center">Mexico</p>
-<p align="center"><img width="80%" src="../assets/Mexico.png" /></p>
-<p align="center">Poland</p>
-<p align="center"><img width="80%" src="../assets/Poland.png" /></p>
-<p align="center">Russia</p>
-<p align="center"><img width="80%" src="../assets/Russia.png" /></p>
-<p align="center">South Africa</p>
-<p align="center"><img width="80%" src="../assets/South Africa.png" /></p>
-<p align="center">Spain</p>
-<p align="center"><img width="80%" src="../assets/Spain.png" /></p>
-<p align="center">Taiwan</p>
-<p align="center"><img width="80%" src="../assets/Taiwan.png" /></p>
-<p align="center">United Kingdoms</p>
-<p align="center"><img width="80%" src="../assets/United Kingdoms.png" /></p>
-<p align="center">United States</p>
-<p align="center"><img width="80%" src="../assets/United States.png" /></p>
+<h4>Australia</h4>
+<img width="80%" src="../assets/Australia.png" />
+<h4>Brazil</h4>
+<img width="80%" src="../assets/Brazil.png" />
+<h4>Canada</h4>
+<img width="80%" src="../assets/Canada.png" />
+<h4>China</h4>
+<img width="80%" src="../assets/China.png" />
+<h4>France</h4>
+<img width="80%" src="../assets/France.png" />
+<h4>Germany</h4>
+<img width="80%" src="../assets/Germany.png" />
+<h4>India</h4>
+<img width="80%" src="../assets/India.png" />
+<h4>Italy</h4>
+<img width="80%" src="../assets/Italy.png" />
+<h4>Japan</h4>
+<img width="80%" src="../assets/Japan.png" />
+<h4>Korea</h4>
+<img width="80%" src="../assets/Korea.png" />
+<h4>Mexico</h4>
+<img width="80%" src="../assets/Mexico.png" />
+<h4>Poland</h4>
+<img width="80%" src="../assets/Poland.png" />
+<h4>Russia</h4>
+<img width="80%" src="../assets/Russia.png" />
+<h4>South Africa</h4>
+<img width="80%" src="../assets/South Africa.png" />
+<h4>Spain</h4>
+<img width="80%" src="../assets/Spain.png" />
+<h4>Taiwan</h4>
+<img width="80%" src="../assets/Taiwan.png" />
+<h4>United Kingdoms</h4>
+<img width="80%" src="../assets/United Kingdoms.png" />
+<h4>United States</h4>
+<img width="80%" src="../assets/United States.png" />
