@@ -1,14 +1,15 @@
-span {
-  float: auto;
+span.align-left {
+  float: left;
+}
+span.align-right {
+  float: right;
 }
 img {
   max-width: 80%;
   height: auto;
-}
-h4, h3, h2, h1 {
   text-align: center;
 }
-p {
+h4, h3, h2, h1, p {
   text-align: center;
 }
 
