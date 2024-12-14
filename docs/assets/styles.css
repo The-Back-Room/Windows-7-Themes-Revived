@@ -1,6 +1,8 @@
 .align-left {
   float: left;
+  margin-left: 5em;
 }
 .align-right {
   float: right;
+  margin-right: 5em;
 }
