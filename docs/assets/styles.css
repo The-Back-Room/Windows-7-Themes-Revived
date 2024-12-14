@@ -13,6 +13,7 @@
 }
 .github-logo {
   background-image: url(`https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png`);
+  width: "10%";
   margin-left: 1em;
   margin-right: 1em;
 }
