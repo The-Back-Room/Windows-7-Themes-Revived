@@ -1,8 +1,8 @@
-.text-align:left {
+.align-left {
   float: left;
-  margin: 80%;
+  margin: 120px;
 }
-.text-align:right {
+.align-right {
   float: right;
-  margin: 80%;
+  margin: 120px;
 }
