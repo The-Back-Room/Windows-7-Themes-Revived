@@ -2,7 +2,7 @@
 layout: default
 title: Windows 7 Themes Revived
 nav_order: 1
-disable_toc: true
+has_toc: false
 permalink: /
 ---
 
