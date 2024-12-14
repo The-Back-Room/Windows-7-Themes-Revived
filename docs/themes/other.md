@@ -7,4 +7,4 @@ permalink: /themes/other
 ---
 
 <h4>Bullet Asylum</h4>
-<img src="../assets/Bullet Asylum.png" />
+<img src="../assets/PreviewImages/Bullet Asylum.png" />
