@@ -5,13 +5,13 @@
   float: right;
 }
 
-.deviantart-logo {
+a.deviantart-logo {
   background-image: url(`https://upload.wikimedia.org/wikipedia/he/thumb/9/9e/Deviantart_logo.png/250px-Deviantart_logo.png`);
   width: "10%";
   margin-left: 30em;
   margin-right: 1em;
 }
-.github-logo {
+a.github-logo {
   background-image: url(`https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png`);
   width: "10%";
   margin-left: 1em;
