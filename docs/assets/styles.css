@@ -1,8 +1,10 @@
 span.align-left {
   float: left;
+  display: block;
 }
 span.align-right {
   float: right;
+  display: block;
 }
 
 a.deviantart-logo {
