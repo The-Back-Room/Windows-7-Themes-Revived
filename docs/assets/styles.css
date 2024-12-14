@@ -1,10 +1,9 @@
-align-left {
+.align-left {
   float: left;
 }
-align-right {
+.align-right {
   float: right;
 }
-
 .download-image {
   display: block;
   width: "10%";
