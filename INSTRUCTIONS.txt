@@ -1,0 +1,1 @@
+To install this theme, simply copy the contents of the "Themes" folder into "C:\Windows\Resources\Themes\"
