@@ -3,7 +3,7 @@
 [Theme]
 ; Windows 7 - IDS_THEME_DISPLAYNAME_AERO
 DisplayName=Windows 7 Ultimate (Orange)
-ThemeId={177F637F-0F8E-4B2B-93B9-583B5DA113B0}
+BrandImage=%SystemRoot%\Resources\Themes\Windows 7 Revived\logo.webp
 
 ; Computer - SHIDI_SERVER
 [CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]

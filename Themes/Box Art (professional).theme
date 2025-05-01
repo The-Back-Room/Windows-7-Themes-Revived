@@ -3,7 +3,7 @@
 [Theme]
 ; Windows 7 - IDS_THEME_DISPLAYNAME_US
 DisplayName=Windows 7 Professional
-ThemeId={A5A76691-1F17-4051-8ADD-D43CE90EDEDF}
+BrandImage=%SystemRoot%\Resources\Themes\Windows 7 Revived\logo.webp
 
 ; Computer - SHIDI_SERVER
 [CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]

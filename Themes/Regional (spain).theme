@@ -3,7 +3,7 @@
 [Theme]
 ; Windows - IDS_THEME_DISPLAYNAME_AERO
 DisplayName=Spain
-ThemeId={077E0271-6D24-4AB7-A466-5057F1D668E4}
+BrandImage=%SystemRoot%\Resources\Themes\Windows 7 Revived\logo.webp
 
 ; Computer - SHIDI_SERVER
 [CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
