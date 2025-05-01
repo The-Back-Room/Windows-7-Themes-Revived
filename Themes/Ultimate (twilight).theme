@@ -103,8 +103,3 @@ DefaultValue=%SystemRoot%\Resources\Themes\Windows 7 Revived\Sounds\feed discove
 DefaultValue=%SystemRoot%\Resources\Themes\Windows 7 Revived\Sounds\navigation start.wav
 [AppEvents\Schemes\Apps\Explorer\SecurityBand]
 DefaultValue=%SystemRoot%\Resources\Themes\Windows 7 Revived\Sounds\information bar.wav
-
-[Slideshow]
-Interval=900000
-Shuffle=1
-ImagesRootPath=%SystemRoot%\Resources\Themes\Windows 7 Revived\Wallpapers\Ultimate\Twilight
