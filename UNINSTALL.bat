@@ -1,0 +1,50 @@
+@ECHO OFF
+
+SET FILE_PATH="%SYSTEMROOT%\Resources\Themes"
+
+ECHO. 
+ECHO ::::::::::::::::::::::::::::::::::::::::::
+ECHO ::        DELETING THEME FILES          ::
+ECHO ::::::::::::::::::::::::::::::::::::::::::
+ECHO.
+
+DEL /F "%FILE_PATH%\Box Art (home premium).theme"
+DEL /F "%FILE_PATH%\Box Art (professional).theme"
+DEL /F "%FILE_PATH%\Box Art (ultimate).theme"
+DEL /F "%FILE_PATH%\Regional (australia).theme"
+DEL /F "%FILE_PATH%\Regional (brazil).theme"
+DEL /F "%FILE_PATH%\Regional (canada).theme"
+DEL /F "%FILE_PATH%\Regional (china).theme"
+DEL /F "%FILE_PATH%\Regional (france).theme"
+DEL /F "%FILE_PATH%\Regional (germany).theme"
+DEL /F "%FILE_PATH%\Regional (india).theme"
+DEL /F "%FILE_PATH%\Regional (italy).theme"
+DEL /F "%FILE_PATH%\Regional (japan).theme"
+DEL /F "%FILE_PATH%\Regional (korea).theme"
+DEL /F "%FILE_PATH%\Regional (mexico).theme"
+DEL /F "%FILE_PATH%\Regional (poland).theme"
+DEL /F "%FILE_PATH%\Regional (russia).theme"
+DEL /F "%FILE_PATH%\Regional (south africa).theme"
+DEL /F "%FILE_PATH%\Regional (spain).theme"
+DEL /F "%FILE_PATH%\Regional (taiwan).theme"
+DEL /F "%FILE_PATH%\Regional (united kingdoms).theme"
+DEL /F "%FILE_PATH%\Regional (united states).theme"
+DEL /F "%FILE_PATH%\RTM (achitecture).theme"
+DEL /F "%FILE_PATH%\RTM (characters).theme"
+DEL /F "%FILE_PATH%\RTM (landscapes).theme"
+DEL /F "%FILE_PATH%\RTM (nature).theme"
+DEL /F "%FILE_PATH%\RTM (scenes).theme"
+DEL /F "%FILE_PATH%\RTM (windows).theme"
+DEL /F "%FILE_PATH%\Ultimate (black).theme"
+DEL /F "%FILE_PATH%\Ultimate (bliss).theme"
+DEL /F "%FILE_PATH%\Ultimate (blush).theme"
+DEL /F "%FILE_PATH%\Ultimate (fire).theme"
+DEL /F "%FILE_PATH%\Ultimate (light).theme"
+DEL /F "%FILE_PATH%\Ultimate (lime).theme"
+DEL /F "%FILE_PATH%\Ultimate (orange).theme"
+DEL /F "%FILE_PATH%\Ultimate (ruby).theme"
+DEL /F "%FILE_PATH%\Ultimate (sea).theme"
+DEL /F "%FILE_PATH%\Ultimate (sky).theme"
+DEL /F "%FILE_PATH%\Ultimate (twilight).theme"
+DEL /F "%FILE_PATH%\Ultimate (violet).theme"
+PAUSE
