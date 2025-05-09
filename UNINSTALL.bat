@@ -3,10 +3,50 @@
 SET FILE_PATH="%SYSTEMROOT%\Resources\Themes"
 
 ECHO. 
-ECHO ::::::::::::::::::::::::::::::::::::::::::
-ECHO ::        DELETING THEME FILES          ::
-ECHO ::::::::::::::::::::::::::::::::::::::::::
+ECHO ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ECHO ::                DELETING THEME FILES                  ::
+ECHO ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ECHO.
+
+ECHO DEL /F "%FILE_PATH%\Box Art (home premium).theme"
+ECHO DEL /F "%FILE_PATH%\Box Art (professional).theme"
+ECHO DEL /F "%FILE_PATH%\Box Art (ultimate).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (australia).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (brazil).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (canada).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (china).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (france).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (germany).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (india).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (italy).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (japan).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (korea).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (mexico).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (poland).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (russia).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (south africa).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (spain).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (taiwan).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (united kingdoms).theme"
+ECHO DEL /F "%FILE_PATH%\Regional (united states).theme"
+ECHO DEL /F "%FILE_PATH%\RTM (achitecture).theme"
+ECHO DEL /F "%FILE_PATH%\RTM (characters).theme"
+ECHO DEL /F "%FILE_PATH%\RTM (landscapes).theme"
+ECHO DEL /F "%FILE_PATH%\RTM (nature).theme"
+ECHO DEL /F "%FILE_PATH%\RTM (scenes).theme"
+ECHO DEL /F "%FILE_PATH%\RTM (windows).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (black).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (bliss).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (blush).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (fire).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (light).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (lime).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (orange).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (ruby).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (sea).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (sky).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (twilight).theme"
+ECHO DEL /F "%FILE_PATH%\Ultimate (violet).theme"
 
 DEL /F "%FILE_PATH%\Box Art (home premium).theme"
 DEL /F "%FILE_PATH%\Box Art (professional).theme"
@@ -47,4 +87,11 @@ DEL /F "%FILE_PATH%\Ultimate (sea).theme"
 DEL /F "%FILE_PATH%\Ultimate (sky).theme"
 DEL /F "%FILE_PATH%\Ultimate (twilight).theme"
 DEL /F "%FILE_PATH%\Ultimate (violet).theme"
+
+ECHO. 
+ECHO ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ECHO ::                      FINISHED                        ::
+ECHO ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ECHO.
+
 PAUSE
